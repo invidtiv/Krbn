@@ -1,14 +1,17 @@
+> [!IMPORTANT]
+> **A personal note (July 2026):** I'm currently going through a rather long
+> medical treatment, so my response times will be slower than usual for
+> a while. Please bear with me on issues and/or questions, I'll get to them.
+> I'm hopeful things will be sorted out in a few weeks, and I'll be able to resume
+> my normal schedule. Thank you for your patience and understanding.
+
+---
+
 # Krbn
 
 **I call it "Carbon", with the vowels sketched out.** A web engine for non-photorealistic,
 pencil-style rendering of abstract and technical scenes — math and physics
 constructions today, medical/organic illustration on the roadmap.
-
-> **A personal note (July 2026):** I'm currently going through a rather long
-> medical treatment, so my response times will be slower than usual for
-> a while. Please bear with me on issues and pull requests — I'll get to them.
-> I'm hopeful things will be sorted out in a few weeks, and I'll be able to resume
-> my normal schedule. Thank you for your patience and understanding.
 
 > **Building something?** See **[API.md](API.md)** — a short guide to using Krbn to build scenes and animations.
 
